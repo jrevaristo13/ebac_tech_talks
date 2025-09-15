@@ -2,7 +2,8 @@
 @use './reset';
 @use './hero';
 @use './event';
-
+@use '../componentes/buttons';
+@use '../componentes/infos_bar';
 
 
 body {
